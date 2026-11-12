@@ -1,0 +1,19 @@
+# Entorno virtual
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Archivos locales exportados
+*.xlsx
+*.csv
